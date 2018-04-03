@@ -1,0 +1,9 @@
+C:\Users\Yaser\Desktop\Project4\TestHarnessCS\CommChannel\bin\Debug\CommChannel.dll
+C:\Users\Yaser\Desktop\Project4\TestHarnessCS\CommChannel\bin\Debug\CommChannel.pdb
+C:\Users\Yaser\Desktop\Project4\TestHarnessCS\CommChannel\obj\Debug\CommChannel.dll
+C:\Users\Yaser\Desktop\Project4\TestHarnessCS\CommChannel\obj\Debug\CommChannel.pdb
+C:\Users\Yaser\Desktop\Project4\TestHarnessCS\CommChannel\obj\Debug\CommChannel.csprojResolveAssemblyReference.cache
+C:\Users\Yaser\Desktop\Project4\TestHarnessCS\CommChannel\bin\Debug\BlockingQueue.dll
+C:\Users\Yaser\Desktop\Project4\TestHarnessCS\CommChannel\bin\Debug\Messages.dll
+C:\Users\Yaser\Desktop\Project4\TestHarnessCS\CommChannel\bin\Debug\BlockingQueue.pdb
+C:\Users\Yaser\Desktop\Project4\TestHarnessCS\CommChannel\bin\Debug\Messages.pdb

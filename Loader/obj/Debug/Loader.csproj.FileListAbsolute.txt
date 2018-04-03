@@ -1,0 +1,13 @@
+C:\Users\Yaser\Desktop\Project4\TestHarnessCS\Loader\bin\Debug\Loader.dll
+C:\Users\Yaser\Desktop\Project4\TestHarnessCS\Loader\bin\Debug\Loader.pdb
+C:\Users\Yaser\Desktop\Project4\TestHarnessCS\Loader\obj\Debug\Loader.dll
+C:\Users\Yaser\Desktop\Project4\TestHarnessCS\Loader\obj\Debug\Loader.pdb
+C:\Users\Yaser\Desktop\Project4\TestHarnessCS\Loader\obj\Debug\Loader.csprojResolveAssemblyReference.cache
+C:\Users\Yaser\Desktop\Project4\TestHarnessCS\Loader\bin\Debug\ITest.dll
+C:\Users\Yaser\Desktop\Project4\TestHarnessCS\Loader\bin\Debug\Logger.dll
+C:\Users\Yaser\Desktop\Project4\TestHarnessCS\Loader\bin\Debug\Timer.dll
+C:\Users\Yaser\Desktop\Project4\TestHarnessCS\Loader\bin\Debug\XMLInput.dll
+C:\Users\Yaser\Desktop\Project4\TestHarnessCS\Loader\bin\Debug\ITest.pdb
+C:\Users\Yaser\Desktop\Project4\TestHarnessCS\Loader\bin\Debug\Logger.pdb
+C:\Users\Yaser\Desktop\Project4\TestHarnessCS\Loader\bin\Debug\Timer.pdb
+C:\Users\Yaser\Desktop\Project4\TestHarnessCS\Loader\bin\Debug\XMLInput.pdb

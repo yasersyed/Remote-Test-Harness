@@ -1,0 +1,5 @@
+C:\Users\Yaser\Desktop\Project4\TestHarnessCS\ITest\bin\Debug\ITest.dll
+C:\Users\Yaser\Desktop\Project4\TestHarnessCS\ITest\bin\Debug\ITest.pdb
+C:\Users\Yaser\Desktop\Project4\TestHarnessCS\ITest\obj\Debug\ITest.dll
+C:\Users\Yaser\Desktop\Project4\TestHarnessCS\ITest\obj\Debug\ITest.pdb
+C:\Users\Yaser\Desktop\Project4\TestHarnessCS\ITest\obj\Debug\ITest.csprojResolveAssemblyReference.cache

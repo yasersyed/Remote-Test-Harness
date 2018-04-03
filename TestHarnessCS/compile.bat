@@ -1,0 +1,1 @@
+devenv TestHarnessCS.sln /rebuild debug

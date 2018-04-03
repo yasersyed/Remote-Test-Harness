@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<testRequest>
+  <Test Name="First Test">
+    <testDriver>TestDriver1.dll</testDriver>
+    <Library>TestingLibrary1.dll</Library>
+  </Test>
+</testRequest>

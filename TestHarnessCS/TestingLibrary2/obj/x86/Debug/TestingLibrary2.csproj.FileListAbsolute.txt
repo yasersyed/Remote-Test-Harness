@@ -1,0 +1,4 @@
+C:\Users\Yaser\documents\visual studio 2015\Projects\TestHarnessCS\TestingLibrary2\bin\x86\Debug\TestingLibrary2.dll
+C:\Users\Yaser\documents\visual studio 2015\Projects\TestHarnessCS\TestingLibrary2\bin\x86\Debug\TestingLibrary2.pdb
+C:\Users\Yaser\documents\visual studio 2015\Projects\TestHarnessCS\TestingLibrary2\obj\x86\Debug\TestingLibrary2.dll
+C:\Users\Yaser\documents\visual studio 2015\Projects\TestHarnessCS\TestingLibrary2\obj\x86\Debug\TestingLibrary2.pdb

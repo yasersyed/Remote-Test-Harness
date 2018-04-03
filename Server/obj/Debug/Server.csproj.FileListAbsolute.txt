@@ -1,0 +1,27 @@
+C:\Users\Yaser\Desktop\Project4\TestHarnessCS\Server\bin\Debug\Server.exe.config
+C:\Users\Yaser\Desktop\Project4\TestHarnessCS\Server\bin\Debug\Server.exe
+C:\Users\Yaser\Desktop\Project4\TestHarnessCS\Server\bin\Debug\Server.pdb
+C:\Users\Yaser\Desktop\Project4\TestHarnessCS\Server\obj\Debug\Server.csprojResolveAssemblyReference.cache
+C:\Users\Yaser\Desktop\Project4\TestHarnessCS\Server\obj\Debug\Server.exe
+C:\Users\Yaser\Desktop\Project4\TestHarnessCS\Server\obj\Debug\Server.pdb
+C:\Users\Yaser\Desktop\Project4\TestHarnessCS\Server\bin\Debug\BlockingQueue.dll
+C:\Users\Yaser\Desktop\Project4\TestHarnessCS\Server\bin\Debug\CommChannel.dll
+C:\Users\Yaser\Desktop\Project4\TestHarnessCS\Server\bin\Debug\Loader.dll
+C:\Users\Yaser\Desktop\Project4\TestHarnessCS\Server\bin\Debug\Messages.dll
+C:\Users\Yaser\Desktop\Project4\TestHarnessCS\Server\bin\Debug\Repository.exe
+C:\Users\Yaser\Desktop\Project4\TestHarnessCS\Server\bin\Debug\Timer.dll
+C:\Users\Yaser\Desktop\Project4\TestHarnessCS\Server\bin\Debug\XMLInput.dll
+C:\Users\Yaser\Desktop\Project4\TestHarnessCS\Server\bin\Debug\Logger.dll
+C:\Users\Yaser\Desktop\Project4\TestHarnessCS\Server\bin\Debug\ITest.dll
+C:\Users\Yaser\Desktop\Project4\TestHarnessCS\Server\bin\Debug\BlockingQueue.pdb
+C:\Users\Yaser\Desktop\Project4\TestHarnessCS\Server\bin\Debug\CommChannel.pdb
+C:\Users\Yaser\Desktop\Project4\TestHarnessCS\Server\bin\Debug\Loader.pdb
+C:\Users\Yaser\Desktop\Project4\TestHarnessCS\Server\bin\Debug\Messages.pdb
+C:\Users\Yaser\Desktop\Project4\TestHarnessCS\Server\bin\Debug\Repository.pdb
+C:\Users\Yaser\Desktop\Project4\TestHarnessCS\Server\bin\Debug\Timer.pdb
+C:\Users\Yaser\Desktop\Project4\TestHarnessCS\Server\bin\Debug\XMLInput.pdb
+C:\Users\Yaser\Desktop\Project4\TestHarnessCS\Server\bin\Debug\Logger.pdb
+C:\Users\Yaser\Desktop\Project4\TestHarnessCS\Server\bin\Debug\ITest.pdb
+C:\Users\Yaser\Desktop\SMA Assignments\Project4\TestHarnessCS\Server\bin\Debug\Server.exe.config
+C:\Users\Yaser\Desktop\SMA Assignments\Project4\TestHarnessCS\Server\obj\Debug\Server.exe
+C:\Users\Yaser\Desktop\SMA Assignments\Project4\TestHarnessCS\Server\obj\Debug\Server.pdb

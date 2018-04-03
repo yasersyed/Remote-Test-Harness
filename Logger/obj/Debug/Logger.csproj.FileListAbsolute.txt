@@ -1,0 +1,5 @@
+C:\Users\Yaser\Desktop\Project4\TestHarnessCS\Logger\bin\Debug\Logger.dll
+C:\Users\Yaser\Desktop\Project4\TestHarnessCS\Logger\bin\Debug\Logger.pdb
+C:\Users\Yaser\Desktop\Project4\TestHarnessCS\Logger\obj\Debug\Logger.dll
+C:\Users\Yaser\Desktop\Project4\TestHarnessCS\Logger\obj\Debug\Logger.pdb
+C:\Users\Yaser\Desktop\Project4\TestHarnessCS\Logger\obj\Debug\Logger.csprojResolveAssemblyReference.cache

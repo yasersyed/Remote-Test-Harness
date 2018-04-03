@@ -1,0 +1,5 @@
+C:\Users\Yaser\Desktop\Project4\TestHarnessCS\XMLInput\bin\Debug\XMLInput.dll
+C:\Users\Yaser\Desktop\Project4\TestHarnessCS\XMLInput\bin\Debug\XMLInput.pdb
+C:\Users\Yaser\Desktop\Project4\TestHarnessCS\XMLInput\obj\Debug\XMLInput.dll
+C:\Users\Yaser\Desktop\Project4\TestHarnessCS\XMLInput\obj\Debug\XMLInput.pdb
+C:\Users\Yaser\Desktop\Project4\TestHarnessCS\XMLInput\obj\Debug\XMLInput.csprojResolveAssemblyReference.cache

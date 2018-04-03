@@ -1,0 +1,4 @@
+C:\Users\Yaser\Desktop\Project4\TestHarnessCS\Serializer\bin\Debug\Serializer.dll
+C:\Users\Yaser\Desktop\Project4\TestHarnessCS\Serializer\bin\Debug\Serializer.pdb
+C:\Users\Yaser\Desktop\Project4\TestHarnessCS\Serializer\obj\Debug\Serializer.dll
+C:\Users\Yaser\Desktop\Project4\TestHarnessCS\Serializer\obj\Debug\Serializer.pdb

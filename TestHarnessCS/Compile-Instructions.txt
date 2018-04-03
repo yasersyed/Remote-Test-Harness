@@ -1,0 +1,2 @@
+1) Run compile.bat as administrator
+2) Run run.bat as administrator
